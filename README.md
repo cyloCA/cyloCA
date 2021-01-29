@@ -1,6 +1,5 @@
-![Crystal's GitHub stats](https://github-readme-stats.vercel.app/api?username=cyloCA&theme=merko&show_icons=true)(https://github.com/cyloCA/github-readme-stats)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cyloCA&layout=compact&theme=merko)(https://github.com/cyloCA/github-readme-stats)
-<!--
+![Crystal's GitHub stats](https://github-readme-stats.vercel.app/api?username=cyloCA&theme=merko&show_icons=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cyloCA&layout=compact&theme=merko)
 **cyloCA/cyloCA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
