@@ -1,4 +1,4 @@
-### [![Crystal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cyloCA)](https://github.com/anuraghazra/github-readme-stats)
+![Crystal's GitHub stats](https://github-readme-stats.vercel.app/api?username=cyloCA&theme=merko&show_icons=true)
 
 <!--
 **cyloCA/cyloCA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
